@@ -9,7 +9,6 @@ A powerful and efficient proxy hunter and checker tool that collects HTTP, SOCKS
 - Collects proxies from 40+ reliable sources
 - Supports HTTP, SOCKS4, and SOCKS5 proxies
 - Multi-threaded proxy checking (100 threads)
-- Beautiful CLI interface with colorful output
 - Automatic duplicate removal and proxy normalization
 - Process locking to prevent multiple instances
 - Organized output files for valid proxies
